@@ -7,12 +7,12 @@
 |Variable| A named container used to store a value that may change. | `var x = 5;` |Student age is 15.|InfoCard string description.|
 |Constant| A fixed value that cannot change once set. | `const PI = 3.14;` |Eletricity going through power lines.|  |
 |Data Type| The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |A book and processing it.|  |
-|      | A sequence of characters used to represent words or text. | `"Hello World"` |  |  |
-|      | Whole number values. | `int age = 16;` |  |  |
-|      | Number values with decimals. | `double age = 16.2;` |  |  |
-|      | A value that can be true or false. | `bool isLoggedIn = false;` |  |  |
-|      | A collection of values in a specific order. | `List<String> names = [];` |  |  |
-|      | A special value that means “nothing.” | `String? name = null;` |  |  |
+|String| A sequence of characters used to represent words or text. | `"Hello World"` |A sentence|  |
+|Interger| Whole number values. | `int age = 16;` |A clock.|  |
+|Double| Number values with decimals. | `double age = 16.2;` |Scaling my font size.|  |
+|Boolean| A value that can be true or false. | `bool isLoggedIn = false;` |A fan; on or off.|  |
+|      List| A collection of values in a specific order. | `List<String> names = [];` |  |  |
+|    Null  | A special value that means “nothing.” | `String? name = null;` |  |  |
 |      | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |  |  |
 |      | The information passed into a function to change how it works. | `greet(String name)` |  |  |
 |      | The result a function gives back. | `return total;` |  |  |
