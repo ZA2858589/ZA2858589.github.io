@@ -3,7 +3,7 @@
 - [Flutter Notes](#flutter-notes)
   - [What is Flutter](#what-is-flutter)
   - [Key Terms and defenitions](#Key-Terms-and-Defefinitions)
-- [Code Defintions](#Code-Definitons)
+- [Code Definitions](#Code-Definitons)
 - [Notebook Style Guide](#Markdown-Style-Guide-for-Coding-Notebooks)
 
 ## Flutter Notes
@@ -208,7 +208,7 @@ Collapsible = Hide/Show detail
 Keep it simple, consistent, and clear.
 
 
-## Code Defenitions
+## Code Definitions
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
