@@ -99,9 +99,9 @@ Inline code for short snippets.
 | Null | A special value that means “nothing.” | `String? name = null;` |A empty shopping list.|  |
 | Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | A jump code. |  |
 | Parameter | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-| Return | The result a function gives back. | `return total;` |  |  |
-| Scope | Where a variable or function can be used. | (No set syntax — concept-based) |  |  |
-| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |  |  |
+| Return | The result a function gives back. | `return total;` | A deposit at the bank and a reciept back. |  |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Student ID. |  |
+| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | A blueprint/guide to assembling a computer. |  |
 | Object | A specific version of a class. | `Dog myDog = Dog();` |  |  |
 | Property | A variable that belongs to a class/object. | `String name;` |  |  |
 | Method | A function that belongs to a class. | `void bark() {}` |  |  |
