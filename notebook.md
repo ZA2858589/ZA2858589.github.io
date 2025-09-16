@@ -84,32 +84,6 @@ Use `System.out.println()` to print
 
 Inline code for short snippets.
 
-## Code Defenitions
-
-| Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
-|------|------------|--------------------------|-------------------|-------------|
-| Variable | A named container used to store a value that may change. | `var x = 5;`  |Student age is 15.|InfoCard string description.|
-| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | Eletricity going through power lines. |  |
-| Data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | A book and processing it. |  |
-| String | A sequence of characters used to represent words or text. | `"Hello World"` | A sentence |  |
-| Intger | Whole number values. | `int age = 16;` | A clock. |  |
-| Double | Number values with decimals. | `double age = 16.2;` |  Changing my font size. |  |
-| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` |A fan; on or off.  |  |
-| List | A collection of values in a specific order. | `List<String> names = [];` |  |  |
-| Null | A special value that means “nothing.” | `String? name = null;` |A empty shopping list.|  |
-| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | A jump code. |  |
-| Parameter | The information passed into a function to change how it works. | `greet(String name)` |  |  |
-| Return | The result a function gives back. | `return total;` | A deposit at the bank and a reciept back. |  |
-| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Student ID. |  |
-| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | A blueprint/guide to assembling a computer. |  |
-| Object | A specific version of a class. | `Dog myDog = Dog();` |  |  |
-| Property | A variable that belongs to a class/object. | `String name;` |  |  |
-| Method | A function that belongs to a class. | `void bark() {}` |  |  |
-| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-| Override | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-| Void | A function that does not return a value. | `void printMessage() {}` |  |  |
-
 Fenced code blocks with language for full examples.
 
 ✅ Example:
@@ -231,3 +205,30 @@ Blockquotes = Notes/Tips
 Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
+
+
+## Code Defenitions
+
+| Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
+|------|------------|--------------------------|-------------------|-------------|
+| Variable | A named container used to store a value that may change. | `var x = 5;`  |Student age is 15.|InfoCard string description.|
+| Constant | A fixed value that cannot change once set. | `const PI = 3.14;` | Eletricity going through power lines. |  |
+| Data type | The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` | A book and processing it. |  |
+| String | A sequence of characters used to represent words or text. | `"Hello World"` | A sentence |  |
+| Intger | Whole number values. | `int age = 16;` | A clock. |  |
+| Double | Number values with decimals. | `double age = 16.2;` |  Changing my font size. |  |
+| Boolean | A value that can be true or false. | `bool isLoggedIn = false;` |A fan; on or off.  |  |
+| List | A collection of values in a specific order. | `List<String> names = [];` | Name list A-Z. |  |
+| Null | A special value that means “nothing.” | `String? name = null;` |A empty shopping list.|  |
+| Function | A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` | A jump code. |  |
+| Parameter | The information passed into a function to change how it works. | `greet(String name)` | The average length of a butterfly. |  |
+| Return | The result a function gives back. | `return total;` | A deposit at the bank and a reciept back. |  |
+| Scope | Where a variable or function can be used. | (No set syntax — concept-based) | Student ID. |  |
+| Class | Blueprint for creating objects with specific structure and behavior. | `class Dog {}` | A blueprint/guide to assembling a computer. |  |
+| Object | A specific version of a class. | `Dog myDog = Dog();` | A hydro computer. |  |
+| Property | A variable that belongs to a class/object. | `String name;` | A name. |  |
+| Method | A function that belongs to a class. | `void bark() {}` | How to connect wires for the computers. |  |
+| Constructor | A special function used to set up a class when it’s created. | `Dog(this.name);` | Teacher giving instructions. |  |
+| Abstraction | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) | A TV remote. |  |
+| Override | Changing how a built-in or inherited function behaves. | `@override` | Changing someone's perspective. |  |
+| Void | A function that does not return a value. | `void printMessage() {}` | Using a broken light switch. |  |
