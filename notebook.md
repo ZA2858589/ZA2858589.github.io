@@ -240,10 +240,10 @@ Keep it simple, consistent, and clear.
 
 | Term | Definition and Description | Base Structure | Real Life Example | App Example |
 |------|----------------------------|----------------|-------------------|-------------|
-|   Main()   | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  |  |
-|   MaterialApp   | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |  |
+|   Main()   | A function that runs when your app starts. It tells Flutter what app to show. | `void main() => runApp(MyApp());` |  | void main() => runApp(MyPortfolioApp()); |
+|   MaterialApp   | The widget that sets up your whole app’s look and navigation. | `MaterialApp(...)` |  |   return MaterialApp(debugShowCheckedModeBanner: false,title: 'TSA Portfolio',theme: ThemeData( |
 |   Scaffold   | A widget that gives you the basic layout: background, navigation bar, floating button, etc. | `Scaffold(...)` |  | in showcase.dart,  return Scaffold( body: Column( mainAxisAlignment: MainAxisAlignment.start,children: [ |
-|   Column   | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |  |
+|   Column   | A widget that holds and displays your content in a straight line from top to bottom. | `Column(...)` |  |   child: Column(children: [Text( title,style: const TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),textAlign: TextAlign.center, |
 |   Row   | A widget that shows things side-by-side. | `Row(...)` |  |  |
 |   Container   | A box that holds other widgets. You can add color, padding, borders, or size. | `Container(...)` |  |  |
 |   Text   | A widget to display text on the screen. | `Text('Hello')` |  |  |
