@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Flutter Notes](#flutter-notes)
   - [What is Flutter](#what-is-flutter)
-  - [Key Terms and defenitions](#key-terms-and-definitions)
+  - [Key Terms and Definitions](#key-terms-and-definitions)
 - [Code Definitions](#code-definitions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 🧩 Key Terms and Definitions
+### Key Terms and Definitions
 
 | Term             | Definition                                      | Example / Notes                          |
 |------------------|--------------------------------------------------|-------------------------------------------|
